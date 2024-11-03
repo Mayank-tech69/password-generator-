@@ -38,7 +38,7 @@ Choose to save generated passwords to a file (optional)
 <h2 id="license">License</h2>
 <font size="4">This program is licensed under the MIT License.</font>
 <h2>Contact</h2>
-<font size="4">For any questions, suggestions, or feedback, please contact me at <a href="mailto:[mayankchoubey321@gmail.com]">mayankchoubey321@gmail.com</a>.</font>
+<font size="4">For any questions, suggestions, or feedback, please contact me <a href="mailto:[mayankchoubey321@gmail.com]">here</a>.</font>
 <h2>Contributing</h2>
 <font size="4">Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.</font>
 <h2>Acknowledgments</h2>
